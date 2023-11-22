@@ -27,7 +27,7 @@ public class CaixaEletronico {
 			System.out.println("Você escolheu a opção Operações Financeiras");
 			break;
 		default:
-			System.out.println("A opção escolhida é ineexistente!\nSelecione apenas 1 ou 2");
+			System.out.println("A opção escolhida é inexistente!\nSelecione apenas 1 ou 2");
 			break;
 		}
 		
